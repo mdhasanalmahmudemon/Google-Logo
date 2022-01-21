@@ -1,0 +1,35 @@
+
+.g-blue{color:#4285F4}
+.o-red{color:#EA4335}
+.o-yellow{color:#FBBC05}
+.l-green{color:#34A853}
+.e-red{color:#EA4335}
+
+
+.google{
+	width:300px;
+	text-align:center;
+	border:1px solid black;
+	font-size:50px;
+}
+
+
+.google:hover{
+	background:black;
+}
+
+.googleLink:active{
+	color:red;
+}
+
+.googleLink{
+	text-decoration:none;
+	color:white;
+}
+
+
+.googleLink:visited{
+	color:gray;
+}
+
+
